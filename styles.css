@@ -1,5 +1,5 @@
 header {
-  height: 100vh;
+
   width: 100%;
 }
 
@@ -19,12 +19,12 @@ nav {
   color: black;
 }
 .men-heading{
-  padding: 100px;
+
   font-size:66px;
   text-align: center;
 }
 .women-heading
-{  padding: 100px;
+{  
   font-size:66px;
   text-align: center;
 }
@@ -89,7 +89,7 @@ nav {
 
 
 #featured{
-  padding: 10px ;
+  padding: 100px ;
   font-size: 50px;
   text-align: center;
 }
